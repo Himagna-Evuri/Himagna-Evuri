@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:172033,100:456A91&height=170&section=header&text=Himagna%20Evuri&fontSize=42&fontColor=F4F7FB&fontAlignY=36&desc=Computer%20Science%20%7C%20Aspiring%20Software%20Engineer&descSize=15&descAlignY=58" width="100%" alt="Himagna Evuri — Aspiring Software Engineer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E8EEF5,100:C9D7E8&height=170&section=header&text=Himagna%20Evuri&fontSize=42&fontColor=263449&fontAlignY=36&desc=Computer%20Science%20%7C%20Aspiring%20Software%20Engineer&descSize=15&descAlignY=58" width="100%" alt="Himagna Evuri — Aspiring Software Engineer" />
 
 <p>
-  <a href="https://github.com/Himagna-Evuri?tab=repositories"><img src="https://img.shields.io/badge/Projects-Explore-334155?style=flat-square&logo=github&logoColor=white" alt="Explore projects" /></a>
-  <img src="https://img.shields.io/badge/Focus-Backend%20%26%20Applied%20AI-456A91?style=flat-square" alt="Backend and applied AI" />
-  <img src="https://img.shields.io/badge/Cloud-AZ--900-334155?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure Fundamentals" />
+  <a href="https://github.com/Himagna-Evuri?tab=repositories"><img src="https://img.shields.io/badge/Projects-Explore-64748B?style=flat-square&logo=github&logoColor=white" alt="Explore projects" /></a>
+  <img src="https://img.shields.io/badge/Focus-Backend%20%26%20Applied%20AI-7896B5?style=flat-square" alt="Backend and applied AI" />
+  <img src="https://img.shields.io/badge/Cloud-AZ--900-8AA99A?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure Fundamentals" />
 </p>
 
 Building practical applications, exploring backend systems, and learning how software works under the hood.
