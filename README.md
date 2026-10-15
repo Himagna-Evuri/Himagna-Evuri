@@ -1,8 +1,12 @@
 <div align="center">
 
-# Himagna Evuri
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:172033,100:456A91&height=170&section=header&text=Himagna%20Evuri&fontSize=42&fontColor=F4F7FB&fontAlignY=36&desc=Computer%20Science%20%7C%20Aspiring%20Software%20Engineer&descSize=15&descAlignY=58" width="100%" alt="Himagna Evuri — Aspiring Software Engineer" />
 
-### Computer Science & Engineering · Aspiring Software Engineer
+<p>
+  <a href="https://github.com/Himagna-Evuri?tab=repositories"><img src="https://img.shields.io/badge/Projects-Explore-334155?style=flat-square&logo=github&logoColor=white" alt="Explore projects" /></a>
+  <img src="https://img.shields.io/badge/Focus-Backend%20%26%20Applied%20AI-456A91?style=flat-square" alt="Backend and applied AI" />
+  <img src="https://img.shields.io/badge/Cloud-AZ--900-334155?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure Fundamentals" />
+</p>
 
 Building practical applications, exploring backend systems, and learning how software works under the hood.
 
@@ -16,9 +20,9 @@ Building practical applications, exploring backend systems, and learning how sof
 
 I'm a Computer Science and Engineering student interested in **backend development, databases, problem-solving, and applied machine learning**. I enjoy turning concepts into working projects and learning through implementation.
 
-- Focus areas: Java development, backend systems, data structures, and applied ML
-- Currently strengthening: software engineering fundamentals and practical project development
-- Approach: build, test, document, and improve
+- **Focus areas:** Java development, backend systems, data structures, and applied ML
+- **Currently strengthening:** Software engineering fundamentals and practical project development
+- **Approach:** Build, test, document, and improve
 
 ## Featured Projects
 
